@@ -21,7 +21,9 @@
     "url": "https://github.com/MohammedAmine/use-jquery-in-the-server/issues"
   },
   "homepage": "https://github.com/MohammedAmine/use-jquery-in-the-server#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
   "dependencies": {
     "cheerio": "^0.22.0",
     "request": "^2.79.0"
