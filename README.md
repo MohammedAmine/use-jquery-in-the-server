@@ -11,5 +11,5 @@ Cheerio is a fast, flexible, and lean implementation of core jQuery designed spe
 
 ### run demo
 ``
-...> node index.js
+...> npm run demo
 ``

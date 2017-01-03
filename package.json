@@ -4,7 +4,8 @@
   "description": "use jQuery in node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "jshint index.js && node index.js"
   },
   "repository": {
     "type": "git",
