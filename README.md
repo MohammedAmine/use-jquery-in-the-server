@@ -1,2 +1,2 @@
-# use-jquery-in-the-server
-A littre project showing how tu use jQuery in NodeJS (demo included)
+# Use jQuery in the Server
+A littre project showing how tu use jQuery in Node.js (demo included)
